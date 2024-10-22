@@ -1,6 +1,0 @@
-hello test commit.
-
-something something
-
-This is something else.
-
